@@ -1,0 +1,27 @@
+A _____ variable is a constant value that can not be changed.
+final
+
+The visibility modifier that makes a data field/method visible only within this class and any class in the same package:
+(blank)default
+public
+protected
+private
+
+JRE stands for Java _____ Environment.
+runtime
+
+Comparable is an example for Java _____
+int
+
+Which one is FALSE about Java Object class?
+It is an abstract class
+It has the toString method implemented
+A new instance of Object can be created
+Any class in Java is the child of Object
+
+What city do you live in?
+Shymkent
+New-York
+Paris
+London
+
